@@ -8,5 +8,5 @@ pip install -r requirements.txt
 
 django-admin startproject django_project .
 chmod +x manage.py
-manage.py startapp core
+./manage.py startapp core
 ```
